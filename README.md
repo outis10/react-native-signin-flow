@@ -1,3 +1,22 @@
+# Funcionalidades
+
+Are you ready to contribute to JHipster? We'd love to have you on board, and we will help you as much as we can. Here are the guidelines we'd like you to follow so that we can be of more help:
+
+- [X] Native Base 
+- [X] React Navigation
+- [ ] SideDrawer
+-   [Questions and help](#question)
+-   [Issues and Bugs](#issue)
+-   [Feature Requests](#feature)
+-   [Submission Guidelines](#submit)
+-   [Generator development setup](#setup)
+-   [Coding Rules](#rules)
+-   [Git Commit Guidelines](#commit)
+
+And don't forget we also accept [financial contributions to the project](https://www.jhipster.tech/sponsors/) using OpenCollective.
+
+## <a name="question"></a> Questions and help
+
 #para corregir  mix de tabas y spaces
 find src -name '*.js' ! -type d -exec bash -c 'expand -t 4 "$0" > /tmp/e && mv /tmp/e "$0"' {} \;
 
